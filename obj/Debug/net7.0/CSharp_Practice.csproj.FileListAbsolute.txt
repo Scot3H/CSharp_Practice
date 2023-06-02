@@ -1,0 +1,15 @@
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.csproj.AssemblyReference.cache
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.AssemblyInfoInputs.cache
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.AssemblyInfo.cs
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.csproj.CoreCompileInputs.cache
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/bin/Debug/net7.0/CSharp_Practice
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/bin/Debug/net7.0/CSharp_Practice.deps.json
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/bin/Debug/net7.0/CSharp_Practice.runtimeconfig.json
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/bin/Debug/net7.0/CSharp_Practice.dll
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/bin/Debug/net7.0/CSharp_Practice.pdb
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.dll
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/refint/CSharp_Practice.dll
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.pdb
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/CSharp_Practice.genruntimeconfig.cache
+/Users/scotthutchins/Downloads/Personal Projects/Csharp/CSharp_Practice/obj/Debug/net7.0/ref/CSharp_Practice.dll
