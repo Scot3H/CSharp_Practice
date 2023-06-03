@@ -34,6 +34,7 @@ public class Human : Animal
 }
 public class Example
 {
+
     public static void Main()
     {
         Human A = new Human(2, true, "A");
