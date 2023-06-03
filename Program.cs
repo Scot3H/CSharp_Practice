@@ -38,6 +38,8 @@ public class Example
     public static void Main()
     {
         Human A = new Human(2, true, "A");
+        Class2 c = new Class2();
+        c.PrintStuff();
         Console.WriteLine(A.GetName());
     }
 }
