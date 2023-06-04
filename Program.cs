@@ -37,9 +37,12 @@ public class Example
 
     public static void Main()
     {
-        Human A = new Human(2, true, "A");
-        Class2 c = new Class2();
-        c.PrintStuff();
-        Console.WriteLine(A.GetName());
+        BinaryTree Test = new BinaryTree();
+        int[] Temp = {4,2,7,1,3,6,9};
+        foreach(int i in Temp){
+            Test.Add(i);
+        }
+        Test.Invert(Test.Root);
+        Test.TraversePostOrder(Test.Root);
     }
 }
